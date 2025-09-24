@@ -11,6 +11,7 @@ Aquí encontrarás proyectos prácticos que abarcan **Natural language processin
 - **Descripción:** Modelo Gemini 2.5 Flash para generación dinámica de atributos de Producto.
 - **Tecnologías:** Python (Pandas, NumPy, Matplotlib), Power BI.
 - **Repositorio:** [GenAI-model](https://github.com/Juanes1897/Generative-Artificial-Intelligence-Model)
+
 ---
 
 ### 2. Web Scraping - Pricing
@@ -24,6 +25,20 @@ Aquí encontrarás proyectos prácticos que abarcan **Natural language processin
 - **Descripción:** Modelo Financiero que permita estimar la convergencia a través de un metodo numerico para encontrar raíces tales que la función VAN sea equivalente a 0 y se encuentre la tasa de interés deseada
 - **Tecnologías:** Python, Pandas, Excel.
 - **Repositorio:** [Financial Model - Newton Raphson](https://github.com/Juanes1897/Financial-Model---Newton-Raphson)
+
+---
+
+- ### 4. Deterministic Model - Cattle Population Growth 
+- **Descripción:** Modelo de simulación determinístico para proyectar el crecimiento poblacional de ganado para establecer estrategias de redistribución orientado a maximizar la producción y optimización logística
+- **Tecnologías:** Python, Pandas, Excel.
+- **Repositorio:** [Deterministic Simulation Model](https://github.com/Juanes1897/Deterministic-Simulation-Model---Cattle-Population-Growth)
+  
+---
+
+- ### 5. Web Scraping - Automated Labor Market 
+- **Descripción:** Web scraper que extrae los datos del mercado laboral en función al nombre de la empresa, el puesto de trabajo, la descripción del puesto y la ubicación geográfica para optimizar procesos de reclutamiento.
+- **Tecnologías:** Python, Pandas, Excel.
+- **Repositorio:** [Web Scraping - Labor Market](https://github.com/Juanes1897/Web-Scraping---Automated-Labor-Market)
 
 ---
 
