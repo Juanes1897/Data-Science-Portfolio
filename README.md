@@ -7,36 +7,35 @@ Aquí encontrarás proyectos prácticos que abarcan **Natural language processin
 
 ## 🚀 Proyectos Destacados
 
-### 1. Optimización de Stock
-- **Descripción:** Modelo para calcular stock mínimo, máximo, de seguridad y óptimo a partir de ventas históricas.
+### 1. GenAI Model
+- **Descripción:** Modelo Gemini 2.5 Flash para generación dinámica de atributos de Producto.
 - **Tecnologías:** Python (Pandas, NumPy, Matplotlib), Power BI.
-- **Repositorio:** [stock-optimization-model](https://github.com/Juanes1897/stock-optimization-model)
-
+- **Repositorio:** [GenAI-model](https://github.com/Juanes1897/Generative-Artificial-Intelligence-Model)
 ---
 
-### 2. Scraper de Ofertas Laborales
-- **Descripción:** Web scraper que extrae ofertas de trabajo desde Indeed/Glassdoor y genera un DataFrame con cargo, salario y ubicación.
+### 2. Web Scraping - Pricing
+- **Descripción:** Web scraper que extrae la información de clasificaciones y precios del Datu Delicon la finalidad de generar estrategias de precios.
 - **Tecnologías:** Python (Selenium, BeautifulSoup, Pandas).
-- **Repositorio:** [job-scraper](https://github.com/Juanes1897/job-scraper)
+- **Repositorio:** [Web-scraping](https://github.com/Juanes1897/Web-Scraping---Pricing)
 
 ---
 
-- ### 3. Clasificación de Productos Cárnicos
-- **Descripción:** Sistema de clasificación de inventario cárnico en categorías y subcategorías para mejorar gestión y análisis de ventas.
+- ### 3. Financial Model - Newton Raphson 
+- **Descripción:** Modelo Financiero que permita estimar la convergencia a través de un metodo numerico para encontrar raíces tales que la función VAN sea equivalente a 0 y se encuentre la tasa de interés deseada
 - **Tecnologías:** Python, Pandas, Excel.
-- **Repositorio:** [meat-products-classification](https://github.com/Juanes1897/meat-products-classification)
+- **Repositorio:** [Financial Model - Newton Raphson](https://github.com/Juanes1897/Financial-Model---Newton-Raphson)
 
 ---
 
 ## 📈 Tecnologías que uso
-- **Lenguajes:** Python, SQL, R  
+- **Lenguajes:** Python, SQL, R Studio, Stata
 - **Librerías principales:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Herramientas:** Power BI, Git, Excel  
 
 ---
 
 ## 📬 Contacto
-- LinkedIn: [Tu perfil aquí]  
-- Email: tuemail@example.com
+- LinkedIn: [https://www.linkedin.com/in/juan-esteban-valladares-3738a6173/]  
+- Email: juan-esteban97@hotmail.com
 
 ---
