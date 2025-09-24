@@ -28,9 +28,11 @@ Aquí encontrarás proyectos prácticos que abarcan **Natural language processin
 ---
 
 ## 📈 Tecnologías que uso
-- **Lenguajes:** Python, SQL, R Studio, Stata
+- **Lenguajes:** Python | PostgreSǪL | Segment | Stata | R Studio
 - **Librerías principales:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Herramientas:** Power BI, Git, Excel  
+- **Herramientas:**
+• BigǪuery | AWS | Cloud Computing | Snowflake 
+• Holistics | Mix Panel | IBM Cognos Analytics | Amplitude Analytics | Looker Studio | Tableau | Power BI
 
 ---
 
