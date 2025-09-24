@@ -1,6 +1,6 @@
 # 📊 Data Science Portfolio
 
-¡Bienvenido a mi portafolio de proyectos en Data Science, Analytics & Artificial Intelligence!  
+¡Bienvenido a mi portafolio de proyectos en Artificial Intelligence, Data Science & Analytics! 
 Aquí encontrarás proyectos prácticos que abarcan **Natural language processing, machine learning, web scraping, modelos de optimización, análisis de datos y visualización**.
 
 ---
