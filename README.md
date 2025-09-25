@@ -15,7 +15,7 @@ Aquí encontrarás proyectos prácticos que abarcan **Natural language processin
 ---
 
 ### 2. Web Scraping - Pricing
-- **Descripción:** Web scraper que extrae la información de clasificaciones y precios del Datu Delicon la finalidad de generar estrategias de precios.
+- **Descripción:** Web scraper que extrae la información de clasificaciones y precios del Datu Deli con la finalidad de generar estrategias de precios.
 - **Tecnologías:** Python (Selenium, BeautifulSoup, Pandas).
 - **Repositorio:** [Web-scraping](https://github.com/Juanes1897/Web-Scraping---Pricing)
 
