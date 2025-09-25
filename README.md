@@ -46,7 +46,6 @@ Aquí encontrarás proyectos prácticos que abarcan **Natural language processin
 - **Lenguajes:** Python | PostgreSǪL | Segment | Stata | R Studio
 - **Librerías principales:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Herramientas:**
-
 • BigǪuery | AWS | Cloud Computing | Snowflake 
 • Holistics | Mix Panel | IBM Cognos Analytics | Amplitude Analytics | Looker Studio | Tableau | Power BI
 
