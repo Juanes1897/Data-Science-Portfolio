@@ -37,7 +37,7 @@ Aquí encontrarás proyectos prácticos que abarcan **Natural language processin
 
 - ### 5. Web Scraping - Automated Labor Market 
 - **Descripción:** Web scraper que extrae los datos del mercado laboral en función al nombre de la empresa, el puesto de trabajo, la descripción del puesto y la ubicación geográfica para optimizar procesos de reclutamiento.
-- **Tecnologías:** Python, Pandas, Excel.
+- **Tecnologías:** Python (Selenium, BeautifulSoup, Pandas).
 - **Repositorio:** [Web Scraping - Labor Market](https://github.com/Juanes1897/Web-Scraping---Automated-Labor-Market)
 
 ---
